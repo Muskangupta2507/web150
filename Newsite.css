@@ -1,0 +1,97 @@
+#navbar_holder{
+    height:100%;
+    width: auto;
+    display: flex;
+    font-size: 17px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    position: -webkit-sticky;
+    top: -1px;
+}
+#hero{
+    background-image: url('C:\Users\DELL\Downloads\home-img.jpeg');
+    background-repeat: no-repeat;
+}
+
+#img{
+    height: 600px;
+    width: 600px;
+    padding-right: 0mm;
+}
+#head{
+    margin-top: auto;
+    color: white;
+}
+#div1{
+    height: auto;
+    width: fit-content;
+    float: right ;
+    background-color: rgba(41,35,35);
+   
+}
+/* .textf{
+
+} */
+.class{
+    background-color: white;
+}
+body{
+    background-color: black;
+}
+.fa-solidfa-magnifying-glass{
+    color: white;
+}
+.fa-solidfa-cart-shopping{
+    color: white;
+}
+span{
+    margin: 10px;
+}
+.sec{
+    height: 100%;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+div{
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    border: 3rem white;
+}
+.col{
+    color: orange;
+    margin-right: 0mm;
+    margin-left: 0mm;
+}
+.t{
+    margin-left: 0mm;
+    margin-right: 0mm;
+}
+.l{
+    color: white;
+    display: block;
+    background-color: orange;
+    height: 30px;
+    width: 90px;
+    text-align: center;
+    justify-content: center;
+
+}
+.num{
+    font-size: 10px;
+}
+.l:hover{
+    background-color: rgba(252, 177, 39, 0.781);
+}
+.image{
+    margin-left: 10px;
+    float: left;
+    height: 60px;
+    width:70px ;
+}
